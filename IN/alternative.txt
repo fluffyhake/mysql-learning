@@ -1,0 +1,4 @@
+SELECT *
+FROM products
+-- WHERE state = ('VA' OR 'GA' OR 'FL')
+WHERE quantity_in_stock = (49 OR 38 OR 72)
