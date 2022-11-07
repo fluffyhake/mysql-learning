@@ -1,0 +1,5 @@
+SELECT *
+FROM customers
+WHERE birth_date > '1990-01-01'
+-- In the sql language you enclose dates with quotes
+-- <, <=, >, >=, =, !=, <>

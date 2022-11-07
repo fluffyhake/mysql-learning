@@ -1,0 +1,8 @@
+-- Get the orders placed this year. 
+
+
+SELECT *
+FROM orders
+WHERE order_date >= '2018-01-01'
+-- In the sql language you enclose dates with quotes
+-- <, <=, >, >=, =, !=, <>
