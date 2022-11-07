@@ -1,0 +1,6 @@
+
+
+
+Download mysql-server on WSL
+
+Download mysql-workbench on windows and connect to localhost.
