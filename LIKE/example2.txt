@@ -1,0 +1,4 @@
+SELECT *
+FROM customers
+-- MATH AMOUNT OF LETTERS WITH SPECIFIC ASWELL
+WHERE last_name LIKE '_____y'
